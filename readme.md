@@ -86,7 +86,7 @@ Welcome to my GitHub profile, I'm an Italian Computer Scientist & Engineer, with
 ## 🧠 Skills & Technologies
 
 - **Programming Languages:**  
-  `Python`, `C++`, `C#`, `Java`, `JavaScript`, `HTML`, `SQL`, `.NET`, `Swift`, `MATLAB`, `Flutter`, `Jinja`
+  `Python`, `C++`, `C#`, `C`, `Java`, `JavaScript`, `HTML`, `SQL`, `.NET`, `Swift`, `MATLAB`, `Flutter`, `Jinja`
 
 - **Specialties:**  
   AI & Machine Learning, Automation, Cloud & API Integration, DevOps, Game Development with Unity, Data Science (Jupyter), Arduino, and Music Technology
@@ -127,13 +127,8 @@ Welcome to my GitHub profile, I'm an Italian Computer Scientist & Engineer, with
   *Issued Aug 2023*  
   Credential ID: `JFK4X8ASTBAZ`  
 
----   
-
-## 🛸 Volunteering Experiences     
-TED Translator since 2023      
-
----      
+---     
 
 ## 📫 Get in Touch
 
-- 📧 Email: [angela.rossi393@gmail.com](mailto:angela.rossi393@gmail.com)
+- 📧 Email: [thebizarrechronicle@gmail.com](mailto:thebizarrechronicle@gmail.com)
