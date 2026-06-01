@@ -1,4 +1,4 @@
-# Hello, I'm Angela Regina Rossi
+# Hello, I'm Angie
 
 Welcome to my GitHub profile, I'm an Italian Computer Scientist & Engineer, with a passion for nature.   
 ---
