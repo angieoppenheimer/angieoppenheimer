@@ -40,15 +40,19 @@ Welcome to my GitHub profile, I'm an Italian Computer Scientist & Engineer, with
 ---
 
 ## 🎓 Academic Background
-  
-- 🦧 *Professional Qualification: GAE Nature and Walking Guide*  
-  **Helios Study Center**, 2026 | EQF 5         
-  Focus: Environmental Educator.                
+
+- 🧬 *Second-Level Specialising Master in General Theory of the Natural Sciences*    
+**Marconi University**, 2027 | EQF 8   
   
 - 💻 *MSc in Multimedia Communications and Information Technology*  
   **University of Udine**, 2026 | EQF 7  
   Focus: Artificial Intelligence, Industrial Automation, IoT  
   Thesis in progress: _"From Tools to Solarpunk: Technological Evolution and Resilience"_
+
+- 🦧 *Professional Qualification: GAE Nature and Walking Guide*  
+  **Helios Study Center**, 2026 | EQF 5         
+  Focus: Environmental Educator.                
+   
 
 - 🎵 *BA in Instrumental and Music Education*          
   **Conservatorio Benedetto Marcello**, 2024 | EQF 6    
