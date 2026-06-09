@@ -47,7 +47,7 @@ Welcome to my GitHub profile, I'm an Italian Computer Scientist & Engineer.
 - 💻 *MSc in Multimedia Communications and Information Technology*  
   **University of Udine**, 2026 | EQF 7  
   Focus: Artificial Intelligence, Industrial Automation, IoT  
-  Thesis in progress: _"From Tools to Solarpunk: Technological Evolution and Resilience"_
+  Thesis in progress: _"The Architecture of Autonomous Driving in Level 4 Systems: The Waymo Approach and Development of an Experimental Prototype."_
 
 - 🦧 *Professional Qualification: GAE Nature and Walking Guide*  
   **Helios Study Center**, 2026 | EQF 5         
