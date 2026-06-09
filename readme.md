@@ -1,6 +1,6 @@
 # Hello, I'm Angie
 
-Welcome to my GitHub profile, I'm an Italian Computer Scientist & Engineer, with a passion for nature.   
+Welcome to my GitHub profile, I'm an Italian Computer Scientist & Engineer.   
 ---
 
 ## 💼 Professional Experience
@@ -41,8 +41,8 @@ Welcome to my GitHub profile, I'm an Italian Computer Scientist & Engineer, with
 
 ## 🎓 Academic Background
 
-- 🧬 *Second-Level Specialising Master in General Theory of the Natural Sciences*
-**Università Marconi**, 2027 | EQF 8
+- 🧬 *Second-Level Specialising Master in General Theory of the Natural Sciences*    
+**Università Marconi**, 2027 | EQF 8    
      
 - 💻 *MSc in Multimedia Communications and Information Technology*  
   **University of Udine**, 2026 | EQF 7  
