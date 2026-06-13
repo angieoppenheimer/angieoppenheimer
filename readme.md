@@ -99,7 +99,7 @@ Welcome to my GitHub profile, I'm an Italian Computer Scientist & Engineer.
   Unity, Blender, Rewst, WHMCS, Plesk, Angular
 
 - **Languages:**  
-  🇮🇹 Italian (Native), 🇬🇧 English (C2 - Cambridge Proficiency), 🇪🇸 Spanish (C1)       
+  🇮🇹 Italian (Native), 🇬🇧 English (C2 - Cambridge Proficiency)               
 
 ---
 
